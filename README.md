@@ -1,6 +1,6 @@
 # purescript-node-child-process
 
-[![Latest release](http://img.shields.io/github/release/purescript-node/purescript-node-child-process.svg)](https://github.com/purescript/purescript-node-child-process/releases)
+[![Latest release](http://img.shields.io/github/release/purescript-node/purescript-node-child-process.svg)](https://github.com/purescript-node/purescript-node-child-process/releases)
 [![Build Status](https://travis-ci.org/purescript-node/purescript-node-child-process.svg?branch=master)](https://travis-ci.org/purescript-node/purescript-node-child-process)
 
 Bindings to Node's `child_process` API.
